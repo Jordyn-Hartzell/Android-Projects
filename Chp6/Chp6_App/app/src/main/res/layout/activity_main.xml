@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/imgJig"
+        android:layout_width="match_parent"
+        android:layout_height="224dp"
+        android:layout_marginTop="40dp"
+        android:contentDescription="@string/jig"
+        app:srcCompat="@drawable/jig" />
+
+    <Button
+        android:id="@+id/btnJig"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="@string/btnJig"
+        android:textSize="22sp" />
+
+    <ImageView
+        android:id="@+id/imgBagpipes"
+        android:layout_width="match_parent"
+        android:layout_height="224dp"
+        android:layout_marginTop="50dp"
+        app:srcCompat="@drawable/bagpipes" />
+
+    <Button
+        android:id="@+id/btnBagpipes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="@string/btnBagpipes"
+        android:textSize="22sp" />
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Car Wash App</string>
+    <string name="txtTitle">Car Wash Packages</string>
+    <string name="txtDescription">Buy 12+ washes for a discount!</string>
+    <string name="btnCalculate">Calculate Package</string>
+    <string name="txtHint">Enter the number of washes</string>
+    <string name="radExteriorOnly">Exterior Only</string>
+    <string name="radExteriorVacuum">Exterior with Interior Vacuum</string>
+    <string name="imgCarwash">Image of Carwash</string>
+</resources>

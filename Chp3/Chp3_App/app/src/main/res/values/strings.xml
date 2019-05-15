@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Triathalon Registration App</string>
+    <string name="txtTitle">Triathalon Registration</string>
+    <string name="txtAthletes">Number of Athletes</string>
+    <string name="imgTriathalon">Bike Race in a Triathalon</string>
+    <string-array name="txtGroup">
+        <item>Lake Placid</item>
+        <item>Big Island Hawaii</item>
+        <item>Miami</item>
+    </string-array>
+    <string name="btnCost">Compute Cost</string>
+</resources>

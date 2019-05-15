@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Segway Rental</string>
+    <string name="txtTitle">Haunted Segway Rentals</string>
+    <string name="txtDescription1">Have you ever wanted to look like a spooky dweeb? Click below to rent your segway for a haunted tour now!</string>
+    <string name="btnRental">Rent a Segway</string>
+    <string name="imgSegway">Spooky Guy and Girl on Segways</string>
+    <string name="title_activity_segway_information">SegwayInformation</string>
+    <string name="txtDisclaimer">Our company is not held liable for any injury or death sustained on said tour.</string>
+    <string name="txtDescription2">Join Haunted Harold and his assistant Spooky Sarah for a one-night only, fright-filled, 12-hour segway journey. For only $200, come experience Wheels of Torture!</string>
+</resources>
